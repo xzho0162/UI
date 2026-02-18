@@ -39,10 +39,10 @@ These insights directly informed persona development, user stories, and design d
 - **Questionnaire**:
   https://docs.google.com/forms/d/e/1FAIpQLScGYPX-cYk9d5xkDO-hbEpZGrWb3uk-J0bdlgA0Pm9L7RHQNg/viewform
 - **Project deliverables**:
-  - [User Research & Data Gathering](./User-Research&Data-Gathering.pdf) — Questionnaire analysis, personas, and user stories
-  - [Low-Fidelity Prototyping Report](./Low-Fidelity-Prototyping-Report.pdf) — Wireframes, storyboards, and Kanban board
-  - [High-Fidelity Prototype & Report](./High-Fidelity-Prototype&Report.pdf) — Figma prototype, WCAG accessibility, heuristic evaluation
-  - [Usability Improvements Report](./Usability-Improvements-Report.pdf) — Final presentation and key design fixes
+  - [User Research & Data Gathering](./User%20Research%20%26%20Data%20Gathering.pdf) — Questionnaire analysis, personas, and user stories
+  - [Low-Fidelity Prototyping Report](./Low-Fidelity%20Prototyping%20Report%20.pdf) — Wireframes, storyboards, and Kanban board
+  - [High-Fidelity Prototype & Report](./High-Fidelity%20Prototype%20%26%20Report.pdf) — Figma prototype, WCAG accessibility, heuristic evaluation
+  - [Usability Improvements Report](./Usability%20Improvements%20Report%20.pdf) — Final presentation and key design fixes
 
 ---
 
