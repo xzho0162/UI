@@ -2,7 +2,6 @@
 
 ## 1. Project Background
 
-**Course**: FIT5152 Usability Design Project, Monash University (Semester 2, 2025)
 **Team**: Venonat — Ruotong Tang, Shenghua Chen, Xiaoman Zhou, Yushu Wang
 
 ### What is this project?
