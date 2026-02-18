@@ -39,10 +39,10 @@ These insights directly informed persona development, user stories, and design d
 - **Questionnaire**:
   https://docs.google.com/forms/d/e/1FAIpQLScGYPX-cYk9d5xkDO-hbEpZGrWb3uk-J0bdlgA0Pm9L7RHQNg/viewform
 - **Project deliverables**:
-  - [User Research & Data Gathering](./FIT5152-Sub1-Applied08-TeamVenonat.pdf) — Questionnaire analysis, personas, and user stories
-  - [Low-Fidelity Prototyping Report](./FIT5152-Sub2-Applied08-xiaoman%20zhou.pdf) — Wireframes, storyboards, and Kanban board
-  - [High-Fidelity Prototype & Report](./FIT5152-Sub3-Applied8-TeamVenonat.pdf) — Figma prototype, WCAG accessibility, heuristic evaluation
-  - [Usability Improvements Report](./FIT5152-Sub4-Applied8-TeamVenonat.pdf) — Final presentation and key design fixes
+  - [User Research & Data Gathering](./User-Research&Data-Gathering.pdf) — Questionnaire analysis, personas, and user stories
+  - [Low-Fidelity Prototyping Report](./Low-Fidelity-Prototyping-Report.pdf) — Wireframes, storyboards, and Kanban board
+  - [High-Fidelity Prototype & Report](./High-Fidelity-Prototype&Report.pdf) — Figma prototype, WCAG accessibility, heuristic evaluation
+  - [Usability Improvements Report](./Usability-Improvements-Report.pdf) — Final presentation and key design fixes
 
 ---
 
