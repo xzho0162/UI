@@ -44,9 +44,9 @@ These insights directly informed persona development, user stories, and design d
 
 ---
 
-## 3) Recruiter Snapshot (30-second read)
+## 3) Showcase Snapshot
 
-- **Role**: UI/UX Designer (student project, team collaboration)
+- **Role**: UI/UX Designer 
 - **Focus**: End-to-end product design from user research to clickable prototype
 - **What to review first**:
   1. Figma prototype (interaction quality)
