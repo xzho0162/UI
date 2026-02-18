@@ -37,8 +37,7 @@ These insights directly informed persona development, user stories, and design d
 - **Interactive Prototype (Figma)**:
   https://www.figma.com/proto/1C4yp80zseu3UbK01CHoKe/UI--prototype?t=IsubJN44C6uf4jGf-1
 - **Questionnaire**:
-  https://forms.gle/SmYFwo8EpwJjPLZa6](https://forms.gle/SmYFwo8EpwJjPLZa6)
-
+  https://docs.google.com/forms/d/e/1FAIpQLScGYPX-cYk9d5xkDO-hbEpZGrWb3uk-J0bdlgA0Pm9L7RHQNg/viewform
 - **Project deliverables**:
   - [User Research & Data Gathering](./FIT5152-Sub1-Applied08-TeamVenonat.pdf) — Questionnaire analysis, personas, and user stories
   - [Low-Fidelity Prototyping Report](./FIT5152-Sub2-Applied08-xiaoman%20zhou.pdf) — Wireframes, storyboards, and Kanban board
