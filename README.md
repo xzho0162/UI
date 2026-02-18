@@ -4,7 +4,7 @@
 
 ## 1) Project Background
 
-This project was completed as part of **FIT5152 Usability Design Project** at Monash University (Semester 2, 2025). The team (Venonat) designed a **Toy & Game Swapping App** — a mobile platform that enables users to donate, swap, and discover toys or games within a safe, community-driven environment.
+ I designed a **Toy & Game Swapping App** — a mobile platform that enables users to donate, swap, and discover toys or games within a safe, community-driven environment.
 
 ### Problem Statement
 
@@ -86,7 +86,7 @@ This project follows a complete design lifecycle across four phases:
 
 ---
 
-## 5) How to Review (for HR / interviewer)
+## 5) How to Review 
 
 ### Option A — Fast review (3–5 minutes)
 1. Open the Figma prototype link.
@@ -102,9 +102,3 @@ This project follows a complete design lifecycle across four phases:
 
 ---
 
-## 6) Contact
-
-- **Name**: Xiaoman Zhou
-- **Portfolio**: `<your website or Notion>`
-- **LinkedIn**: `<your LinkedIn URL>`
-- **Email**: `<your professional email>`
